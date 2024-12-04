@@ -5,6 +5,13 @@
   text-align: center;
 }
 
+/* src/App.css */
+.header-logo {
+  width: 50%;
+  max-width: 100%;
+  height: auto;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
